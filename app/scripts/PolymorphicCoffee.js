@@ -57,8 +57,8 @@
   showArea = function(shape) {
     if (!(shape instanceof Shape)) {
       throw new Error('showArea requires a Shape instance!');
-      return console.log(shape.computeArea());
     }
+    return console.log(shape.computeArea());
   };
 
   showArea(new Square(2));

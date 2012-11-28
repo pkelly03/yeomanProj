@@ -11,7 +11,7 @@ class Circle extends Shape
 	
 showArea = (shape) ->
 	unless shape instanceof Shape
-	  throw new Error('showArea requires a Shape instance!') 
+            throw new Error('showArea requires a Shape instance!') 
     console.log shape.computeArea()
 
 showArea new Square(2) # 4 
