@@ -1,0 +1,623 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 93.0,
+		"selected_items":
+		[
+			[
+				":q",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"set syn json",
+				"Set Syntax: JSON"
+			],
+			[
+				"pre",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"jsopn",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"pr",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set sy json",
+				"Set Syntax: JSON"
+			],
+			[
+				":e",
+				":$ - EOF"
+			],
+			[
+				"set bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"REmove Paca",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Package"
+			],
+			[
+				"REmove",
+				"Package Control: Remove Package"
+			],
+			[
+				"HTML",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"JSON",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"HML",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"Install Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"INstall ",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set syntax json",
+				"Set Syntax: JSON"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"INstall",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set syntax: js",
+				"Set Syntax: JSON"
+			],
+			[
+				"form",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"set stn",
+				"Set Syntax: JSON"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"Py",
+				"Set Syntax: Python"
+			],
+			[
+				"Pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"Pcakage",
+				"Package Control: Install Package"
+			],
+			[
+				"Json",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"Pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageCo",
+				"Package Control: Install Package"
+			],
+			[
+				":wq",
+				"Bracket Highlighter: Swap Quotes"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"inSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"for",
+				"Format: Javascript"
+			],
+			[
+				"prettt",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"prettif",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"set ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"fom",
+				"Format: Javascript"
+			],
+			[
+				"sjon",
+				"Set Syntax: JSON"
+			],
+			[
+				"fomr",
+				"Format: Javascript"
+			],
+			[
+				"HtmlPre",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"java",
+				"Format: Javascript"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/.git/MERGE_MSG",
+		"/Users/paulkelly/.my_git_config",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/shapefiles/soaUKwgs84_region/xpy",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/shapefiles/soaUKwgs84_region/soaUKwgs84_region.shx",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/shapefiles/soaUKwgs84_region/soaUKwgs84_region.dbf",
+		"/Users/paulkelly/.my_aliases",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/src/main/webapp/scripts/application.js",
+		"/Users/paulkelly/.npm/jquery/1.7.3/package/lib/node-jquery.js",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/run-mocha-tests.js",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/src/test/javascript/jquery.min.js",
+		"/Users/paulkelly/rep",
+		"/Users/paulkelly/Projects/ruby-sample/ruby-sample/web.rb",
+		"/Users/paulkelly/.my_functions",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/.git/COMMIT_EDITMSG",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/json/split-polygon.json",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/json/tmp/split-polygon.json",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/json/split-polygon.resolved.json",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/failures.log",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/json/split-polygon.",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/json/output.report.json",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/json/output.cloudmate.json",
+		"/Users/paulkelly/tmp/javascript/utils/passwordCheckerTest.js",
+		"/Users/paulkelly/tmp/javascript/utils/templateParserTest.js",
+		"/Users/paulkelly/tmp/javascript/utils/toolsTest.js",
+		"/Users/paulkelly/tmp/javascript/specRunner.html",
+		"/Users/paulkelly/.bash_profile",
+		"/Users/paulkelly/.bash_pro",
+		"/Users/paulkelly/.bash_prompt",
+		"/Users/paulkelly/Desktop/SavedLocationPayload.json",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/usr/local/Cellar/tomcat/7.0.32/libexec/conf/tomcat-users.xml",
+		"/Users/paulkelly/Downloads/objsets/src/main/scala/objsets/TweetSet.scala",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/Alignment/Default (OSX).sublime-keymap",
+		"/Users/paulkelly/Projects/EE_Spikes/underscore.js",
+		"/Users/paulkelly/Desktop/Test.json",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/Sublime-HTMLPrettify/HTMLPrettify.py",
+		"/Users/paulkelly/Projects/EE_Spikes/spike.html",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/paulkelly/Projects/EE_Spikes/underscore_spike2.html",
+		"/Users/paulkelly/Desktop/ScalaSolution",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/paulkelly/.myfunctions",
+		"/Users/paulkelly/.config/sublime-text-2/Packages/User/tidy_xml.py",
+		"/Users/paulkelly/.config/sublime-text-2/Packages/User/prettify_json.py",
+		"/Users/paulkelly/Projects/dotfiles/.osx",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/src/main/webapp/scripts/smartsteps/Spike.html",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/build.gradle",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/rep",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/shapefile_migration/build.gradle",
+		"/Users/paulkelly/Desktop/SSPI-137 Json Payload",
+		"/Users/paulkelly/Desktop/SSPI 137 Alpha Payload.json",
+		"/Users/paulkelly/tmp/highchart-heatmap/javascripts/highcharts.heatmap.js",
+		"/Users/paulkelly/ScalaCourse/assignments/week1/recfun/Marker.scala",
+		"/Users/paulkelly/ScalaCourse/assignments/assignments/week1/recfun/build.sbt",
+		"/Users/paulkelly/ScalaCourse/assignments/assignments/week1/recfun/target/scala-2.9.2/progfun-recfun_2.9.2-1.0.0.pom",
+		"/Users/paulkelly/ScalaCourse/assignments/assignments/week1/recfun/pom.xml",
+		"/Users/paulkelly/ScalaCourse/assignments/assignments/week1/recfun/project/plugins.sbt",
+		"/Users/paulkelly/Projects/rec_fun_week1/.git/COMMIT_EDITMSG",
+		"/Users/paulkelly/Temp/hello/build.sbt",
+		"/Users/paulkelly/Temp/hello/project/plugins.sbt",
+		"/Users/paulkelly/Projects/recfun_/build.sbt",
+		"/Users/paulkelly/Temp/.idea/IdeaProject.iml",
+		"/Users/paulkelly/.sbt/plugins/build.sbt",
+		"/Users/paulkelly/.functions",
+		"/Users/paulkelly/Projects/scala_helloworld/hw.scala",
+		"/Users/paulkelly/Projects/scala_helloworld/build.sbt",
+		"/Users/paulkelly/Projects/dotfiles/func",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/src/main/webapp/scripts/controllers/analysisPanel.coffee",
+		"/Users/paulkelly/Projects/dotfiles/.exports",
+		"/Users/paulkelly/.sbtconfig",
+		"/Users/paulkelly/Projects/dotfiles/.bashrc",
+		"/Users/paulkelly/Projects/dotfiles/.bash_profile",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/build.gradle",
+		"/Users/paulkelly/my_aliases",
+		"/Users/paulkelly/git_config",
+		"/Users/paulkelly/Desktop/Sprint 9 Demo",
+		"/Users/paulkelly/Projects/dotfiles/README.md",
+		"/Users/paulkelly/GitClones/sublime-text-surround/surround.sublime-keymap",
+		"/Users/paulkelly/GitClones/sublime-text-surround/README.md",
+		"/usr/local/Cellar/tomcat/7.0.29/libexec/webapps/web-ui/css/skin.css",
+		"/Users/paulkelly/Projects/temp/index.html",
+		"/usr/local/Cellar/tomcat/7.0.29/libexec/webapps/web-ui/WEB-INF/jsp/login.jsp",
+		"/usr/local/Cellar/tomcat/7.0.29/libexec/webapps/web-ui/WEB-INF/tags/headers/login.tag",
+		"/usr/local/Cellar/tomcat/7.0.29/libexec/webapps/web-ui/WEB-INF/jsp/login-spike.jsp",
+		"/usr/local/Cellar/tomcat/7.0.29/libexec/webapps/web-ui/css/login-spike.css",
+		"/Users/paulkelly/.ssh/known_hosts",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/History.md",
+		"/Users/paulkelly/Projects/dotfiles/.bash_prompt",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/src/main/jstest",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/jstest-ci",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/jstest",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/package.json",
+		"/Users/paulkelly/Projects/node-spikes/express_webserver.js",
+		"/Users/paulkelly/Projects/node-spikes/chat.js",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/report.xml",
+		"/Users/paulkelly/Projects/node-spikes/chat.hs",
+		"/Users/paulkelly/Downloads/Paul 60 mins with 4 x 8 at 160190.erg",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/cobertura-support.gradle",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/deployment-support.gradle",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/external-dependencies.gradle",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/ide-support.gradle",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/settings.gradle",
+		"/Users/paulkelly/.zshrc",
+		"/Users/paulkelly/Scripts/loadTraffic.sh",
+		"/Users/paulkelly/Scripts/loadPolygons.sh",
+		"/Users/paulkelly/Projects/jasmine-gradle/src/test/javascript/SpecRunner.html",
+		"/Users/paulkelly/Projects/jasmine-gradle-plugin/build.gradle",
+		"/Users/paulkelly/Projects/jasmine-gradle/build.gradle",
+		"/Users/paulkelly/Projects/backbone-selenium-kata/.git/COMMIT_EDITMSG",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/acceptance-tests/build.gradle",
+		"/Users/paulkelly/Projects/gradle_templates/build.gradle",
+		"/Users/paulkelly/Projects/backbone-groovy-selenium-kata/build.gradle",
+		"/Users/paulkelly/Projects/backbone-selenium-kata/build.gradle",
+		"/Users/paulkelly/Projects/localtodos/index.html",
+		"/Users/paulkelly/Desktop/test.html",
+		"/Users/paulkelly/Desktop/test.js",
+		"/Users/paulkelly/.bash_",
+		"/Users/paulkelly/Projects/jasmine-gradle/src/test/javascript/lib/MultiRunner.html",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/src/test/javascript/specRunners.js",
+		"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui/src/test/javascript/RequireJsSpecRunner.html",
+		"/Users/paulkelly/Projects/jasmine-reporters/test/envjs.runner.sh",
+		"/Users/paulkelly/Projects/jasmine-reporters/test/TEST-JUnitXmlReporter.xml",
+		"/Users/paulkelly/Projects/jasmine-reporters/test/junit_xml_reporter.html",
+		"/Users/paulkelly/Projects/jasmine-reporters/ext/jasmine-html.js",
+		"/Users/paulkelly/Projects/jasmine-gradle-plugin/generatorTest/build.gradle"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps",
+			"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/*.gradle",
+			"/Users/paulkelly/equalexperts/TelefonicaInsightServices",
+			"/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartstep",
+			"/Users/paulkelly/Projects,/Users/paulkelly/equalexperts/TelefonicaInsightServices/smartsteps/web-ui",
+			"/Users/paulkelly/Projects",
+			"/Users/paulkelly/Projects/jasmine-gradle"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"umsUserDetailsService",
+			"#",
+			"SecretKeyFactory",
+			"0370",
+			"0000",
+			"À¯ÀÀx",
+			"filter",
+			"days",
+			"testdir",
+			"testDir",
+			"jquery",
+			".",
+			"log",
+			"type",
+			"This",
+			"resolvePolygonNames",
+			"resolve",
+			"authenticationEntryPoint",
+			"authenticationFilter",
+			"rememberMeServices",
+			"generateComparisonPageFromTemplate",
+			"initialiseDataForTemplate",
+			"}\"\n",
+			"location",
+			"Merge",
+			"let",
+			"Merge",
+			"SavedLocationObject",
+			"parse",
+			"SavedLocationObject",
+			"Merge",
+			"Mobility",
+			"\n ",
+			"have",
+			"merge",
+			"Merge",
+			"gcbl",
+			"var",
+			"name",
+			"stooges",
+			"\"/>\n",
+			"EmptyTrending",
+			"select_word",
+			"format",
+			"super+alt+l",
+			"file",
+			"close",
+			"ctrl+w",
+			"false",
+			"\": ",
+			",\n",
+			"TEST",
+			"IS",
+			"THIS",
+			"ascasca",
+			"data",
+			"json_2",
+			"var",
+			"script",
+			"Mon",
+			"ascalksmcaklscmalkscamklcapply",
+			"Merge",
+			"Leigh",
+			"picker",
+			"tbody",
+			"heatmapper",
+			"export",
+			"scala",
+			"MathBook Pro",
+			"athBook Pro",
+			"java",
+			"asscasca",
+			"transform",
+			"header",
+			"float: right",
+			"body",
+			"container",
+			"\n  ",
+			"alias",
+			"p",
+			"24",
+			"data-action",
+			"export",
+			"subl",
+			"logback",
+			"functionalTest",
+			"external",
+			"external-dependencies",
+			"grc",
+			"alias",
+			"$@\"\n",
+			"alias",
+			"\"\n",
+			"alias",
+			"SmartsSpecRunner",
+			"js.jar",
+			"rg.mozilla.javascript.tools.shell.Main",
+			"rhino",
+			"prototype",
+			"pad",
+			"reportRunnerResults",
+			"savePath",
+			"JUnitXmlReporter",
+			"Trivial",
+			"TrivialReporter",
+			"rhino",
+			"apply",
+			"alias"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/paulkelly/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true
+}
